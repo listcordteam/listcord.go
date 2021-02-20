@@ -1,4 +1,4 @@
-package main
+package listcord
 
 import (
 	"encoding/json"
