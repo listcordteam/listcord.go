@@ -57,7 +57,7 @@ func Client(token string) ClientConstructor {
 
 	return ClientConstructor{
 		Token:   token,
-		baseURL: "https://listcord.xyz/api",
+		baseURL: "https://listcord.gg/api",
 	}
 
 }
